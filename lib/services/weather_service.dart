@@ -3,7 +3,8 @@ import 'package:http/http.dart' as http;
 import '../models/weather_model.dart';
 
 class WeatherService {
-  static const String apiKey = 'dbaaa2c5f5b18989ccc9a936dc5c0d0b'; // Replace with your API key
+  static const String apiKey = String.fromEnvironment('WEATHER_API_KEY', 
+    defaultValue: 'YOUR_DEFAULT_KEY');
   static const String baseUrl = 'https://api.openweathermap.org/data/2.5';
   
   final Map<String, CachedWeather> _cache = {};
