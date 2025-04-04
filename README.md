@@ -121,8 +121,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Harsh Mali - harshsachinmali8@gmail.com
 
-Project Link: [https://github.com/yourusername/weather_app](https://github.com/yourusername/weather_app)
+Project Link: [https://github.com/harsh-mali/weather_app](https://github.com/harsh-mali/weather_app)
 "# weather_app" 
 "# weather_app" 
