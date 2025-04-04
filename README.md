@@ -2,7 +2,7 @@
 
 A modern, minimalist weather application built with Flutter that provides real-time weather information with a beautiful user interface.
 
-![App Screenshot](screenshots/app_preview.png)
+![App Screenshot](assets/icons/weather_ss.jpg)
 
 ## Features
 
